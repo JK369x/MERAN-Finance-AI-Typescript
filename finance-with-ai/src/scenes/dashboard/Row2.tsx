@@ -1,4 +1,4 @@
-import BoxHeader from "@/components/Boxheader";
+import BoxHeader from "@/components/BoxHeader";
 import DashboardBox from "@/components/Dashboard";
 import FlexBetween from "@/components/FlexBetween";
 import { useGetKpisQuery, useGetProductsQuery } from "@/state/api";

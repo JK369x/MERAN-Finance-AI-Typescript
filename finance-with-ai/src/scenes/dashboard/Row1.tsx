@@ -17,7 +17,7 @@ import {
 import { useGetKpisQuery } from "@/state/api";
 import useTheme from "@mui/material/styles/useTheme";
 import { useMemo } from "react";
-import BoxHeader from "@/components/Boxheader";
+import BoxHeader from "@/components/BoxHeader";
 type Props = {};
 
 const Row1 = (props: Props) => {
